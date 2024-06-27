@@ -307,7 +307,7 @@ export default function Landing() {
   )
 }
 
-function AppWindowIcon(props) {
+function AppWindowIcon(props: any) {
   return (
     <svg
       {...props}
@@ -330,7 +330,7 @@ function AppWindowIcon(props) {
 }
 
 
-function Columns4Icon(props) {
+function Columns4Icon(props: any) {
   return (
     <svg
       {...props}
@@ -353,7 +353,7 @@ function Columns4Icon(props) {
 }
 
 
-function Disc3Icon(props) {
+function Disc3Icon(props: any) {
   return (
     <svg
       {...props}
@@ -376,7 +376,7 @@ function Disc3Icon(props) {
 }
 
 
-function FlagIcon(props) {
+function FlagIcon(props: any) {
   return (
     <svg
       {...props}
@@ -397,7 +397,7 @@ function FlagIcon(props) {
 }
 
 
-function Heading5Icon(props) {
+function Heading5Icon(props: any) {
   return (
     <svg
       {...props}
@@ -421,7 +421,7 @@ function Heading5Icon(props) {
 }
 
 
-function Heading6Icon(props) {
+function Heading6Icon(props: any) {
   return (
     <svg
       {...props}
@@ -445,7 +445,7 @@ function Heading6Icon(props) {
 }
 
 
-function Link2Icon(props) {
+function Link2Icon(props: any) {
   return (
     <svg
       {...props}
@@ -467,7 +467,7 @@ function Link2Icon(props) {
 }
 
 
-function SectionIcon(props) {
+function SectionIcon(props: any) {
   return (
     <svg
       {...props}
